@@ -1,0 +1,35 @@
+﻿l_english:
+
+  # National Focus
+
+    rn_tibetan_expansion: "Tibetan Expansion"
+    rn_tibetan_expansion_desc: "TODO"
+
+  # Ideologies
+
+    neutrality_drift: "Daily Neutrality Support"
+    neutrality_drift_boost: "Neutrality Drift"
+
+    monarchy_drift: "Daily Monarchy Support"
+    monarchy_drift_boost: "Monarchy Drift"
+
+    democratic_drift: "Daily Democratic Support"
+    democratic_drift_boost: "Democratic Drift"
+
+    socialism_drift: "Daily Socialism Support"
+    socialism_drift_boost: "Socialism Drift"
+
+    communism_drift: "Daily Communism Support"
+    communism_drift_boost: "Communism Drift"
+
+    islamic_drift: "Daily Islamic Support"
+    islamic_drift_boost: "Islamic Drift"
+
+    authoritarian_drift: "Daily Authoritarian Support"
+    authoritarian_drift_boost: "Authoritarian Drift"
+
+    nationalist_drift: "Daily Nationalist Support"
+    nationalist_drift_boost: "Nationalist Drift"
+
+    fascism_drift: "Daily Fascism Support"
+    fascism_drift_boost: "Fascism Drift"

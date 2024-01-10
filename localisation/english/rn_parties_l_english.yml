@@ -1,0 +1,348 @@
+﻿l_english:
+
+ #  IDEOLOGIES
+
+  neutrality: "Non-Aligned"
+  neutrality_noun: "Non-Aligned"
+  neutrality_desc: "Non-Aligned Regime"
+
+  islamic: "Islamic"
+  islamic_noun: "Islamism"
+  islamic_desc: "Islamic Regime"
+
+  monarchy: "Monarchist"
+  monarchy_noun: "Monarchism"
+  monarchy_desc: "Monarchist Regime"
+
+  democratic: "Democratic"
+  democratic_noun: "Democracy"
+  democratic_desc: "Democratic Party"
+
+  socialism: "Socialist"
+  socialism_noun: "Socialism"
+  socialism_desc: "Socialist Party"
+
+  communism: "Communist"
+  communism_noun: "Communism"
+  communism_desc: "Communist Totalitarian Regime"
+
+  authoritarian: "Authoritarian"
+  authoritarian_noun: "Authoritarian"
+  authoritarian_desc: "Authoritarian Regime"
+
+  nationalist: "Nationalist"
+  nationalist_noun: "Nationalism"
+  nationalist_desc: "Nationalist-State Regime"
+
+  fascism: "Fascist"
+  fascism_noun: "Fascism"
+  fascism_desc: "Fascist Totalitarian Regime"
+
+ #  SUB-IDEOLOGIES - NON-ALIGNED
+
+  despotism: "Despotic"
+  despotism_desc: "Despotism is a form of government in which a single person rules with absolute power with no ideological facilitation."
+
+  centrism: "Centrism"
+  centrism_desc: "Centrism is a form of government which wants to achieve common sense solutions that appropriately address current and future needs, that support the public trust and serve the common good with consideration of risk and capacity in context of these needs."
+
+  moderatism: "Moderatism"
+  moderatism_desc: "Moderatism is a form of government which avoids the extremes of left and right by taking a moderate position or course of action."
+
+  papacy: "Papacy"
+  papacy_desc: "A political structure where the nation is governed by a spiritual leader, the Pope, the highest ranking office of the Roman Catholic Church."
+
+ #  SUB-IDEOLOGIES - ISLAMISM
+
+  islamic_caliphate: "Islamic Caliphate"
+  islamic_caliphate_desc: "A caliphate is an Islamic state under the leadership of an Islamic steward with the title of caliph, a person considered a political-religious successor to the Islamic prophet Muhammad and a leader of the entire Muslim community."
+
+  islamic_republic: "Islamic Republic"
+  islamic_republic_desc: "An Islamic republic is the name given to states that are officially ruled by Islamic laws."
+
+  islamic_democracy: "Islamic Democracy"
+  islamic_democracy_desc: "An Islamic democracy holsd the belief that democracy requires restricting religion to private life, held by a minority in the Muslim world."
+
+  islamic_fascism: "Islamic Fascism"
+  islamic_fascism_desc: "A putatively Islamic form of aggressive fascism which calls for the expansionism and aggressive actions required for such expansionism; a Muslim theocracy."
+
+ #  SUB-IDEOLOGIES - MONARCHISM
+
+  oligarchism: "Oligarchic"
+  oligarchism_desc: "Oligarchy is a form of government in which a group of people rule with absolute power."
+
+  absolute: "Absolute Monarchy"
+  absolute_desc: "Absolute monarchy is a form of monarchy in which the monarch holds supreme authority and where that authority is not restricted by any written laws, legislature, or customs."
+
+  imperial: "Imperial Monarchy"
+  imperial_desc: "Imperial Monarchy is a nation ruled by an emperor, a sovereign ruler of great power and rank, especially one ruling an empire."
+
+  constitutional: "Constitutional Monarcy"
+  constitutional_desc: "A constitutional monarchy is a form of monarchy in which the sovereign exercises authority in accordance with a written or unwritten constitution."
+
+  elective: "Elective Monarchy"
+  elective_desc: "An elective monarchy is a monarchy ruled by an elected monarch, in contrast to a hereditary monarchy in which the office is automatically passed down as a family inheritance."
+
+  dual_monarchy: "Dual Monarchy"
+  dual_monarchy_desc: "Dual monarchy occurs when two separate kingdoms are ruled by the same monarch, follow the same foreign policy, exist in a customs union with each other and have a combined military but are otherwise self-governing."
+
+  hereditary: "Hereditary Monarchy"
+  hereditary_desc: "Hereditary monarchy is a form of government and succession of power in which the throne passes from one member of a royal family to another member of the same family."
+
+  aristocracy: "Aristocracy"
+  aristocracy_desc: "is a form of government that places strength in the hands of a small, privileged ruling class. The term derives from the Greek aristokratia, meaning 'rule of the best-born'."
+
+  timocracy: "Timocracy"
+  timocracy_desc: "a form of government in which possession of property is required in order to hold office, or the office is government by the honored or valued."
+
+ #  SUB-IDEOLOGIES - DEMOCRACY
+
+  conservatism: "Conservatism"
+  conservatism_desc: "Considering rapid changes to society to be potentially harmful, conservatism espouses tradition and moderate reforms, sometimes advocating a return to old moral values."
+
+  liberalism: "Liberalism"
+  liberalism_desc: "With a long philosophical tradition of valuing personal liberty, liberalism views safeguarding these rights as the primary function of the state."
+
+  direct: "Direct"
+  direct_desc: "Direct democracy or pure democracy is a form of democracy in which people decide on policy initiatives directly. This differs from the majority of currently established democracies, which are representative democracies."
+
+  representative: "Representative"
+  representative_desc: "Representative democracy is a type of democracy founded on the principle of elected officials representing a group of people, as opposed to direct democracy."
+
+  presidential: "Presidential"
+  presidential_desc: "A presidential democracy is a system of government in which also called an. executive branch exist but is separate from the legislature."
+
+  parliamentary: "Parliamentary"
+  presidential_desc: "A parliamentary system is a system of democratic governance of a state where the executive derives its democratic legitimacy from its ability to command the confidence of the legislature, typically a parliament, and is also held accountable to that parliament. In a parliamentary system, the head of state is usually a person distinct from the head of government."
+
+  participatory: "Participatory"
+  participatory_desc: "The individual participation by citizens in political decisions and policies that affect their lives, especially directly rather than through elected representatives."
+
+  republicanism: "Republicanism"
+  republicanism_desc: "A democratic republic is a form of government operating on principles adopted from a republic and a democracy. Rather than being a cross between two entirely separate systems, democratic republics may function on principles shared by both republics and democracies."
+
+  authoritarian_democracy: "Authoritarian Democracy"
+  authoritarian_democracy_desc: "An authoritarian form of government is one where the populus is disconnected from the selection of their leaders. Authoritarian Democracy is also broadly aligned with centralized authority and a lack of political freedoms."
+
+ #  SUB-IDEOLOGIES - SOCIALISM
+
+  socialism: "Socialist"
+  socialism_desc: "Striving for equality and a socialist state by reformist means, democratic socialism aims to abolish or mitigate the effects of capitalism with public mandate."
+
+  anarchism: "Anarchism"
+  anarchism_desc: "An ideology embracing the idea of communism as a stateless society, Anarchist Communism eschews the idea of a transitionary socialist state and favors a society based on voluntary associations and mutual aid."
+
+  democratic_communism: "Democratic Communism"
+  democratic_communism_desc: "Democratic communism is a political philosophy that advocates political democracy alongside a socially owned economy, with an emphasis on self-management and democratic management of economic institutions within a market or some form of decentralized planned socialist economy."
+
+ #  SUB-IDEOLOGIES - COMMUNISM
+
+  marxism: "Marxism"
+  marxism_desc: "Encompassing a broad spectrum of economic and historical views, Marxist politics seek to apply the theories of Karl Marx to political practice. Class struggle and the need for transition to a society based on common ownership of the means of production characterize these ideologies."
+
+  leninism: "Leninism"
+  leninism_desc: "A political ideology based in Marxist thought, Leninism seeks to establish a socialist state by a vanguard party leading a revolution overthrowing capitalist society. Once in power, the party rules through a system whereby policies are open for internal debate until a decision has been made."
+
+  trotskyism: "Trotskyism"
+  trotskyism_desc: "Trotskyism is the theory of the political or economic principles of Leon Trotsky, especially the theory that socialism should be established throughout the world by continuing revolution."
+
+  stalinism: "Stalinism"
+  stalinism_desc: "Identifying as a form of government applying and developing Marxist-Leninist policies, Stalinism emphasizes rapid industrialization and collectivization as well as the need for a strong, authorative socialist state to purge any counter-revolutionary elements."
+
+  maoism: "Maoism"
+  maoism_desc: "Maoism is the communist doctrines of Mao Zedong as formerly practiced in China, having as a central idea permanent revolution and stressing the importance of the peasantry, small-scale industry, and agricultural collectivization."
+
+  anti_revisionism: "Anti-Revisionism"
+  anti_revisionism_desc: "A reaction to the many ideologies claiming to be successors to Marxism-Leninism, Anti-Revisionism advocates retaining key elements of original revolutionary theory. Mainly opposing incorporation of capitalist economic elements into socialist states, the ideology is defined as much by what it isn't as what it is."
+
+ #  SUB-IDEOLOGIES - AUTHORITARIAN
+
+  authoritarian_regime: "Authoritarian Despotic Regime"
+  authoritarian_regime_desc: "authoritarian is a form of government characterized by strong central power and limited political freedoms. Under an authoritarian regime, individual freedoms are subordinate to the state, and there is no constitutional accountability and no rule of law."
+
+ #  SUB-IDEOLOGIES - NATIONALISM
+
+  nationalist_state_regime: "Nationalist State Regime"
+  nationalist_state_regime_desc: "a sense of national consciousness exalting one nation above all others and placing primary emphasis on promotion of its culture and interests as opposed to those of other nations or supranational groups."
+
+  national_bolshevism: "National Bolshevism"
+  national_bolshevism_desc: "National Bolshevism is a ideology that mixes Soviet Bolshevism and Ultranationalism together."
+
+ #  SUB-IDEOLOGIES - FASCISM
+
+  nazism: "Nazism"
+  nazism_desc: "Rooted in extreme nationalism, National Socialism is driven by ideas of Germanic supremacy. It promotes aggressive expansionism and a totalitarian state where the people are united under a leader with absolute power, the Führer."
+
+  fascism_ideology: "Fascism"
+  fascism_ideology_desc: "Encompassing a variety of ultra-nationalist movements, fascism typically venerates devotion to the state and uniting the people under a strong leader."
+
+  falangism: "Falangism"
+  falangism_desc: "An authoritarian ideology with traits of fascism and conservatism, Falangism values national and Catholic identity."
+
+  rexism: "Rexism"
+  rexism_desc: "Strongly opposed to both liberal and communist ideals, Rexism is a staunchly conservative nationalist movement who advocate a corporatist economic policy. Employing increasingly populist and authoritarian rhetoric, their ideals are shifting closer to other fascist movements."
+
+ ##############################################################################
+
+ # COUNTRIES
+
+ # German Empire
+
+ GER_neutrality_party: "Centralist Party"
+ GER_neutrality_party_long: "German State Liberal-Centralist Neutrality Party"
+ GER_islamic_party: "IDL"
+ GER_islamic_party_long: "Islamische Deutsche Liga"
+ GER_monarchy_party: "House of Hohenzollern"
+ GER_democratic_party: "DRPD"
+ GER_democratic_party_long: "Demokratische Republikanische Partei Deutschlands"
+ GER_socialism_party: "SDPG"
+ GER_socialism_party_long: "Sozialdemokratische Partei Deutschlands"
+ GER_communism_party: "Deutsche Volkspartei"
+ GER_communism_party_long: "Deutscher Volksgewerkschaftsbund"
+ GER_authoritarian_party: "GRP"
+ GER_authoritarian_party_long: "Deutsche Reichspartei"
+ GER_nationalist_party: "RPGP"
+ GER_nationalist_party_long: "Reichspartei of the German People"
+ GER_fascism_party: "Deutschvolkische Party"
+ GER_fascism_party_long: "German Völkisch Freedom Party"
+
+ # Austria-Hungary
+
+ AUS_monarchy_party: "House of Habsburg-Lorraine"
+
+ # Papal States
+
+ # Naples
+
+ # Sardinia-Piedmont
+
+ # Italian Merchants Union
+
+ # Spanish Empire
+
+ # Spanish African Union
+
+ # Spanish West Indies
+
+ # Netherlands
+
+ # England
+
+ # Switzerland
+
+ # Northumberland
+
+ # Scotland
+
+ # Ireland
+
+ # Kingdom of France
+
+ # French Republic
+
+ # Poland
+
+ # Denmark
+
+ # Sweden
+
+ # Norway
+
+ # Finland
+
+ # Baltic Regime
+
+ # East Prussia
+
+ # Belarus
+
+ # Ukraine
+
+ # Romainia
+
+ # Bulgaria
+
+ # Albania
+
+ # Libya
+
+ # Tripolitania
+
+ # Tunis
+
+ # Ottoman Empire
+
+ # Egypt
+
+ # Yemen
+
+ # Omen
+
+ # Armenia
+
+ # Georgia
+
+ # Russia
+
+ # Muscovy
+
+ # Siberia
+
+ # Persia
+
+ # Pakistan
+
+ # Mughal Tribes
+
+ # Australia
+
+ # New Zealand
+
+ # Malaysia
+
+ # Tibet
+
+ # Empire of China
+
+ # Hong Kong Administrative
+
+ # Chinese Communist Republic
+
+ # Vietnam
+
+ # Siam
+
+ # Japan
+
+ # Manchuria
+
+ # Mongolian Empire
+
+ # Brazil
+
+ # Santa Catrina Republic
+
+ # Rio Grande Sol Republic
+
+ # Ucayali Republic
+
+ # Argentina
+
+ # Columbia
+
+ # Venezuela
+
+ # USCA
+
+ # Mexico
+
+ # United States
+
+ # Canada
+
+ # Hudson Bay Trading Company
+
+ # Alaska
+
+ # New California Republic
+

@@ -1,0 +1,31 @@
+﻿capital = 8
+
+oob = "HOLLAND_OOB_1922"
+
+set_research_slots = 1
+set_stability = 0.73
+set_war_support = 0.10
+
+set_popularities = {
+	authoritarian = 100
+}
+
+set_politics = {
+	ruling_party = authoritarian
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Wilhelmina"
+	desc = "POLITICS_GUSTAV_V_DESC"
+	picture = "gfx/leaders/HOL/RN_Wilhelmina.dds"
+	expire = "1923.1.1"
+	ideology = authoritarian_regime
+	traits = {
+	}
+}
+
+#todo country_leaders
+
+#todo unit_leaders

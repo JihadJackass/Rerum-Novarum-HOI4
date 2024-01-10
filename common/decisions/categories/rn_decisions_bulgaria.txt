@@ -1,0 +1,8 @@
+rn_bulgaria_decisions = {
+	icon = generic_research
+	visible = {
+		#is_debug = yes
+		tag = BUL
+		is_ai = no
+	}
+}

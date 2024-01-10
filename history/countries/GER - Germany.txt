@@ -1,0 +1,37 @@
+﻿capital = 64
+
+oob = "GERMANY_OOB_1922"
+
+set_research_slots = 2
+set_convoys = 25
+set_stability = -0.50
+set_war_support = -0.10
+
+set_popularities = {
+	authoritarian = 80
+	socialism = 16
+	monarchy = 4
+}
+
+set_politics = {
+	ruling_party = authoritarian
+	elections_allowed = no
+}
+
+create_faction = GreaterGermany
+add_to_faction = GER
+add_to_faction = POL
+
+puppet = POL
+puppet = GRJ
+puppet = ZIM
+
+create_country_leader = {
+	name = "Kaiser Wilhelm II"
+	desc = "RN_POLITICS_KAISER_WILHELM_II_DESC"
+	picture = "gfx/leaders/GER/Kaiser_Wilhelm_II.dds"
+	expire = "1941.6.4"
+	ideology = authoritarian_regime
+	traits = {
+	}
+}

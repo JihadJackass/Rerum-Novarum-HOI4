@@ -1,0 +1,33 @@
+﻿capital = 230
+
+oob = "ARMENIA_OOB_1922"
+
+set_research_slots = 1
+set_stability = 0.50
+set_war_support = 0.30
+
+set_politics = {
+	ruling_party = democratic
+	election_frequency = 72
+	elections_allowed = no
+}
+
+set_popularities = {
+	nationalist = 41
+	democratic = 31
+	authoritarian = 28
+}
+
+create_country_leader = {
+	name = "TODO: LEADER"
+	desc = "POLITICS_GUSTAV_V_DESC"
+	picture = "gfx/leaders/Africa/Portrait_Africa_Generic_3.dds"
+	expire = "1923.1.1"
+	ideology = liberalism
+	traits = {
+	}
+}
+
+#todo country_leaders
+
+#todo unit_leaders

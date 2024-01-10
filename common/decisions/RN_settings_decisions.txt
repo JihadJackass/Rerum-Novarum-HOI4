@@ -1,0 +1,78 @@
+
+ # RERUM NOVARUM DECISIONS
+
+	# CATEGORIES
+
+		rn_game_settings_decisions = {
+
+			# Disable Factions
+
+			rn_disable_factions = {
+
+				icon = generic_research
+
+				available = {
+					any_country = {
+						is_faction_leader = yes
+					}
+				}
+
+				#visible = { always = yes }
+
+				fire_only_once = no
+				cost = 0
+
+				complete_effect = {
+					every_country = {
+						if = {
+							limit = {
+								is_faction_leader = yes
+							}
+							dismantle_faction = yes
+						}
+					}
+				}
+
+				ai_will_do = {
+					base = 0
+				}
+			}
+
+			# Disable Puppets - TODO: add enable/disable versions
+
+			rn_disable_puppets = {
+
+				icon = generic_research
+
+				available = {
+					any_country = {
+						is_puppet = yes
+					}
+				}
+
+				visible = { always = yes }
+
+				fire_only_once = no
+				cost = 0
+
+				complete_effect = {
+					custom_effect_tooltip = rn_will_disable_puppets
+					hidden_effect = {
+						every_country = {
+							limit = {
+								is_puppet = yes
+							}
+							ROOT = { puppet = PREV }
+							ROOT = { end_puppet = PREV }
+						}
+					}
+				}
+
+				ai_will_do = {
+					base = 0
+				}
+			}
+
+		}
+
+	#

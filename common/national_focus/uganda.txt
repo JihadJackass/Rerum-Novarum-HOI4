@@ -1,0 +1,31 @@
+﻿focus_tree = {
+	id = ugandan_focus
+
+	country = {
+		factor = 0
+
+		modifier = {
+			add = 20
+			tag = UGA
+		}
+	}
+
+	default = no
+
+	continuous_focus_position = { x = 50 y = 500 }
+
+	focus = {
+		id = surrender_to_colonial_powers
+		icon = GFX_goal_generic_allies_build_infantry
+		x = 1
+		y = 0
+		cost = 10
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+			add_political_power = 10
+		}
+	}
+
+}

@@ -1,0 +1,35 @@
+﻿capital = 41
+
+oob = "SPANISH_EMPIRE_OOB_1922"
+
+set_research_slots = 1
+set_stability = 0.68
+set_war_support = 0.17
+
+set_popularities = {
+	nationalist = 76
+	monarchy = 20
+	fascism = 4
+}
+
+set_politics = {
+	ruling_party = nationalist
+	elections_allowed = no
+}
+
+puppet = INS
+puppet = SWU
+
+create_country_leader = {
+	name = "Alfonso XIII"
+	desc = "POLITICS_GUSTAV_V_DESC"
+	picture = "gfx/leaders/SPR/Alfonso_XIII.dds"
+	expire = "1923.1.1"
+	ideology = nationalist_regime
+	traits = {
+	}
+}
+
+#todo country_leaders
+
+#todo unit_leaders

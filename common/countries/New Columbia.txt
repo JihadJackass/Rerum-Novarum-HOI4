@@ -1,0 +1,6 @@
+# British Government in Exile
+
+graphical_culture = western_european_gfx
+graphical_culture_2d = western_european_2d
+
+color = rgb { 158 108 108 }

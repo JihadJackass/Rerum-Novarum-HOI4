@@ -1,0 +1,17 @@
+rn_debug_decisions = {
+	icon = generic_research
+	visible = {
+		#is_debug = yes
+		always = yes
+		is_ai = no
+	}
+}
+
+rn_game_settings_decisions = {
+	icon = generic_research
+	visible = {
+		#is_debug = yes
+		NOT = { date > 1922.02.01 }
+		is_ai = no
+	}
+}

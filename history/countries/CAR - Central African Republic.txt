@@ -1,0 +1,42 @@
+﻿capital = 660
+
+oob = "CENTRAL_AFRICAN_REPUBLIC_OOB_1922"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = nationalist
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	democratic = 25
+	neutrality = 20
+	nationalist = 55
+}
+
+create_country_leader = {
+	name = "Mindogon Mgboundoulou"
+	desc = "POLITICS_GUSTAV_V_DESC"
+	picture = "gfx/leaders/Africa/Portrait_Africa_Generic_3.dds"
+	expire = "1923.1.1"
+	ideology = nationalist_regime
+	traits = {
+	}
+}
+
+create_faction = LeagueOfAfrica
+add_to_faction = CAR
+add_to_faction = UGA
+add_to_faction = KEN
+add_to_faction = ZIM
+
+puppet = SUD
+

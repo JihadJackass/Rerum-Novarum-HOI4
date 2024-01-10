@@ -1,0 +1,148 @@
+bookmarks = {
+	bookmark = {
+		name = "RERUM_NOVARUM_NAME"
+		desc = "RERUM_NOVARUM_DESC"
+		date = 1922.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "SPR"
+		default = yes
+
+		### Major Nations ###
+
+		"SPR"={
+			history = "SPR_RERUM_NOVARUM_DESC"
+			ideology = nationalist
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
+
+		"GER"={
+			history = "GER_RERUM_NOVARUM_DESC"
+			ideology = authoritarian
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
+
+		"AUS"={
+			history = "AUS_RERUM_NOVARUM_DESC"
+			ideology = neutrality
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
+
+		"HOL"={
+			history = "HOL_RERUM_NOVARUM_DESC"
+			ideology = authoritarian
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
+
+		"SWE"={
+			history = "SWE_RERUM_NOVARUM_DESC"
+			ideology = democratic
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
+
+		"MEX"={
+			history = "MEX_RERUM_NOVARUM_DESC"
+			ideology = authoritarian
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
+
+		"TUR"={
+			history = "MEX_RERUM_NOVARUM_DESC"
+			ideology = authoritarian
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
+
+		"---"={
+			history = "OTHER_RERUM_NOVARUM_DESC"
+		}
+
+		### Minor Nations ####
+
+		"FRA"={
+			minor = yes
+			history = "FRA_RERUM_NOVARUM_DESC"
+			ideology = democratic
+		}
+
+		"USA"={
+			minor = yes
+			history = "USA_RERUM_NOVARUM_DESC"
+			ideology = democratic
+		}
+
+		"RUS"={
+			minor = yes
+			history = "USA_RERUM_NOVARUM_DESC"
+			ideology = authoritarian
+		}
+
+		"CHI"={
+			minor = yes
+			history = "USA_RERUM_NOVARUM_DESC"
+			ideology = authoritarian
+		}
+
+		"MID"={
+			minor = yes
+			history = "MID_RERUM_NOVARUM_DESC"
+			ideology = authoritarian
+		}
+
+		"MON"={
+			minor = yes
+			history = "MON_RERUM_NOVARUM_DESC"
+			ideology = authoritarian
+		}
+
+		"HBC"={
+			minor = yes
+			history = "HBC_RERUM_NOVARUM_DESC"
+			ideology = authoritarian
+		}
+
+		"OKL"={
+			minor = yes
+			history = "OKL_RERUM_NOVARUM_DESC"
+			ideology = nationalist
+		}
+
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

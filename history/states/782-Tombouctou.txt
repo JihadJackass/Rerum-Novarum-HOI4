@@ -1,0 +1,22 @@
+state = {
+	id=782
+	name="STATE_782" # Tombouctou
+	manpower = 79243
+	state_category = wasteland
+
+	history={
+		owner = SPU
+		add_core_of = SPU
+
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		1115 2068 10725 10868
+	}
+
+	local_supplies=0.0
+}

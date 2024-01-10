@@ -1,0 +1,24 @@
+﻿capital = 266
+
+oob = "PERSIA_OOB_1922"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+}
+
+set_convoys = 10
+set_politics = {
+	ruling_party = authoritarian
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	authoritarian = 53
+	nationalist = 27
+	socialism = 12
+	democratic = 8
+}

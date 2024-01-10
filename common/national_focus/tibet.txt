@@ -1,0 +1,42 @@
+﻿focus_tree = {
+	id = rn_tibetan_focus
+
+	country = {
+		factor = 0
+		modifier = {
+			add = 20
+			original_tag = TIB
+		}
+	}
+	default = no
+
+	continuous_focus_position = { x = 50 y = 500 }
+
+	focus = {
+		id = rn_tibetan_expansion
+		icon = GFX_goal_generic_allies_build_infantry
+		x = 1
+		y = 0
+		cost = 10
+
+		available = {
+			date > 1924.01.01
+		}
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+			declare_war_on = {
+				target = AFG
+				type = annex_everything
+				generator = { 441 }
+			}
+		}
+
+		ai_will_do = {
+			base = 1
+		}
+
+	}
+
+}

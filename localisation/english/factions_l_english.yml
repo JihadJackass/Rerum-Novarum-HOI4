@@ -1,0 +1,64 @@
+﻿l_english:
+
+ BritishUnion: "Germanic-British Union"
+ SlavicUnion: "Slavic Union"
+ LeagueOfAfrica: "League of Africa"
+ GreaterGermany: "Greater Germany"
+ OldAllies: "The Old Alliance"
+
+ # GENERAL
+
+ FACTION_LEADER:0 "Faction leader: §Y$COUNTRY$§!"
+ FACTION_MEMBER:0 "Faction member: §Y$COUNTRY$§!"
+ FACTION_CREATED_UNDER_MASTER_TITLE: "Joined Faction"
+ FACTION_CREATED_UNDER_MASTER_MESSAGE: "We have joined $FACTION|H$ faction!"
+ FACTION_NAME_IDEOLOGY_DEFAULT: "Supporters of $IDEOLOGY$"
+
+ # FACTION IDEOLOGY NAMES
+
+ # Non-Aligned
+
+ FACTION_NAME_NONALIGNED_1: "The $LEADER_COUNTRY$ Congress"
+ FACTION_NAME_NONALIGNED_2: "The $CONTINENT$ Alliance"
+ FACTION_NAME_NONALIGNED_3: "Confederate $CONTINENT_ADJ$ Nations"
+ FACTION_NAME_NONALIGNED_4: "The $LEADER_COUNTRY$ Coalition"
+
+ # Islamism
+
+ FACTION_NAME_ISLAM_1: "The $LEADER_COUNTRY$ Caliphate"
+
+ # Monarchy
+
+ FACTION_NAME_MONARCHY_1: "The $LEADER_COUNTRY$ Royal Alliance"
+
+ # Democracy
+
+ FACTION_NAME_DEMOCRATIC_1: "The $CONTINENT_ADJ$ Democratic Alliance"
+ FACTION_NAME_DEMOCRATIC_2: "$CONTINENT_ADJ$ Coalition"
+ FACTION_NAME_DEMOCRATIC_3: "The Congress of $CONTINENT_ADJ$"
+
+ # Socialism
+
+ FACTION_NAME_SOCIALISM_1: "$LEADER_COUNTRY_ADJ$ Protection Bloc"
+
+ # Communism
+
+ FACTION_NAME_COMMUNIST_1: "$CONTINENT_ADJ$ Bloc"
+ FACTION_NAME_COMMUNIST_2: "The $LEADER_COUNTRY_ADJ$ Bloc"
+ FACTION_NAME_COMMUNIST_3: "The $CONTINENT_ADJ$ Pact"
+
+ # Authoritarian
+
+ FACTION_NAME_AUTHORITARIANSIM_1: "The $LEADER_COUNTRY_ADJ$ League"
+
+ #Nationalism
+
+ FACTION_NAME_AUTHORITARIANSIM_1: "The $CONTINENT$ Protection League"
+
+ #Fascism
+
+ FACTION_NAME_FASCISM_1: "The $CONTINENT_ADJ$ League"
+ FACTION_NAME_FASCISM_2: "The $CONTINENT$ Confederacy"
+ FACTION_NAME_FASCISM_3: "$CONTINENT_ADJ$ Confederation"
+
+ #NOTE: Each ideology needs at least 4 logical factions and names.

@@ -1,0 +1,36 @@
+﻿capital = 683
+
+oob = "HUDSON_BAY_COMPANY_OOB_1922"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	nationalist = 25
+	authoritarian = 30
+	democratic = 35
+	neutrality = 10
+}
+
+create_country_leader = {
+	name = "Hudson Company Directorate"
+	desc = "POLITICS_HBC_DIRECTORATE"
+	picture = "gfx/leaders/Africa/Portrait_Africa_Generic_3.dds"
+	expire = "1924.1.1"
+	ideology = nationalist_regime
+	traits = {
+	}
+}
+
+ # TODO:  hudson bay company is economically stronger than british in exile, has to balance to stay alive

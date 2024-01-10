@@ -1,0 +1,47 @@
+﻿l_english:
+
+ # Generic Focus Tree
+
+  espionage_program_expansion: "Espionage Program Expansion"
+  espionage_program_expansion_desc: "TODO"
+
+  defense_in_depth: "Defense in Depth"
+  defense_in_depth_desc: "TODO"
+
+  neighor_rivalry: "Neighborhood Rivalry"
+  neighor_rivalry_desc: "TODO"
+
+  islamic_expansionism: "Islamic Expansionism"
+  islamic_expansionism_desc: "TODO"
+
+ # French / Generic Tree
+
+  filipino_french_wars: "Franco-Filipino War"
+  filipino_french_wars_desc: "TODO"
+
+ # Ideologies
+
+  democratic_focus: "Democratic Focus"
+  democratic_focus_desc: "TODO"
+
+  socialist_focus: "Socialist Focus"
+  socialist_focus_desc: "TODO"
+
+  islamic_focus: "Islamic Focus"
+  islamic_focus_desc: "TODO"
+
+  authoritarian_focus: "Authoritarian Focus"
+  authoritarian_focus_desc: "TODO"
+
+  nationalist_focus: "Nationalist Focus"
+  nationalist_focus_desc: "TODO"
+
+  fascism_focus: "Fascism Focus"
+  fascism_focus_desc: "TODO"
+
+  monarchy_focus: "Monarchy Focus"
+  monarchy_focus_desc: "TODO"
+
+ # Ideas for Focus Tree
+
+  rn_generic_expand_espionage_program: "Expand Espionage Program"

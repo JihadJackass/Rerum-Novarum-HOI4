@@ -1,0 +1,16 @@
+version="1.11"
+tags={
+	"Alternative History"
+	"Gameplay"
+	"National Focuses"
+	"Ideologies"
+}
+name="Rerum Novarum"
+replace_path="events"
+replace_path="common/ai_strategy"
+replace_path="common/decisions"
+replace_path="common/decisions/categories"
+replace_path="common/ideologies"
+replace_path="common/national_focus"
+supported_version="1.11.13"
+remote_file_id="1277795082"

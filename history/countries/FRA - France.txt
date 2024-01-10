@@ -1,0 +1,30 @@
+﻿capital = 19
+
+oob = "FRANCE_OOB_1922"
+
+set_research_slots = 1
+set_stability = 0.60
+set_war_support = 0.70
+
+set_popularities = {
+	democratic = 80
+	socialism = 20
+}
+
+set_politics = {
+	ruling_party = democratic
+	elections_allowed = no
+	election_frequency = 60
+}
+
+create_country_leader = {
+	name = "TODO: Leaders"
+	desc = "RN_POLITICS_TODO_DESC"
+	picture = GFX_leader_unknown
+	expire = "1965.1.1"
+	ideology = conservatism
+}
+
+#todo country_leaders
+
+#todo unit_leaders

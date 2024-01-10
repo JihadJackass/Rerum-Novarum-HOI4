@@ -1,0 +1,25 @@
+KNOWN ISSUES AND PROBLEMS
+
+-TECHNOLOGY DOES NOT MATCH AND TAKES FOREVER
+-FIX GUNS BOATS TANKS PRODUCTION
+-Netherlands has a mechanic based on where the capital is, and how much influence each neighbor has invested in Netherlands
+-if Poland Conquers Germany you can form a unique version of Poland
+-Create a generic focus tree
+-Split up somaliland amongst colonial powers
+-Split up aden island
+-SPLIT UP BASICALLY ANY ISLAND LOCKED TO A STATE
+-MOSCOW ISLANDS TO IMPERIAL RUSSIA
+-CASPIAN SEA NAVIGABLE
+-ALL NATIONS USE ENGLISH NAMES DIVISIONS
+-MAKE PROPER REASEARCH SLOT AMOUNTS
+
+IDEAS - NOT CONFIRMED
+
+-England has a Union System over Scotland and Ireland, which they must either focus on internal success, or colonial success, but not both
+-Swedish colonies in Finland, remaineder of Finland a subject of Denmark
+-Baltic Union controls a finnish subject in Finland
+-
+-
+-
+-
+-

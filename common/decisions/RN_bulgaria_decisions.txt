@@ -1,0 +1,78 @@
+
+ # RERUM NOVARUM - BULGARIA
+
+	#
+
+		RN_bulgaria_decisions = {
+
+				# RESTORE GREAT BULGARIA (REQUIRES KILLING UKRAINE)
+
+				rn_restore_great_bulgaria = {
+
+					icon = generic_research
+
+					available = {
+						tag = BUL
+					}
+
+					visible = {
+						always = yes
+					}
+
+					fire_only_once = no
+					cost = 0
+
+					complete_effect = {
+						set_politics = {
+							ruling_party = nationalist
+							elections_allowed = yes
+						}
+						set_political_party = {
+							ideology = nationalist
+							popularity = 100
+						}
+						add_stability = -0.15
+					}
+
+					ai_will_do = {
+						base = 0
+					}
+				}
+
+				# Establish Tsardom of Bulgaria (MONARCHY)
+
+				rn_establish_tsardom_of_bulgaria = {
+
+					icon = generic_research
+
+					available = {
+						tag = BUL
+					}
+
+					visible = {
+						always = yes
+					}
+
+					fire_only_once = no
+					cost = 0
+
+					complete_effect = {
+						set_politics = {
+							ruling_party = monarchy
+							elections_allowed = no
+						}
+						set_political_party = {
+							ideology = monarchy
+							popularity = 100
+						}
+						add_stability = -0.20
+					}
+
+					ai_will_do = {
+						base = 0
+					}
+				}
+
+		}
+
+	#

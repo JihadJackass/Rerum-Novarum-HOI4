@@ -1,0 +1,49 @@
+﻿capital = 126
+
+set_oob = "ENGLAND_OOB_1922"
+
+set_research_slots = 2
+
+set_stability = 0.6
+set_war_support = 0.1
+set_convoys = 10
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+	gwtank = 1
+}
+
+add_ideas = {
+}
+
+set_politics = {
+	ruling_party = monarchy
+	last_election = "1920.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	monarchy = 81
+	democratic = 19
+}
+
+create_faction = BritishUnion
+add_to_faction = ENG
+add_to_faction = SCO
+add_to_faction = IRE
+
+puppet = HBC
+
+
+create_country_leader = {
+	name = "King George V"
+	desc = "RN_POLITICS_KING_GEORGE_V_DESC"
+	picture = "gfx/leaders/ENG/King_George_V.dds"
+	expire = "1941.6.4"
+	ideology = absolute
+	traits = {
+	}
+}

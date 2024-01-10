@@ -1,0 +1,33 @@
+﻿capital = 467
+
+oob = "CANADA_OOB_1922"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = authoritarian
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	nationalist = 21
+	authoritarian = 29
+	democratic = 50
+}
+
+create_country_leader = {
+	name = "Hana Patrick"
+	desc = "POLITICS_GUSTAV_V_DESC"
+	picture = "gfx/leaders/Africa/Portrait_Africa_Generic_3.dds"
+	expire = "1924.1.1"
+	ideology = nationalist_regime
+	traits = {
+	}
+}

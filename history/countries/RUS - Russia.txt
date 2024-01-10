@@ -1,0 +1,30 @@
+﻿capital = 217
+
+oob = "RUSSIA_OOB_1922"
+
+set_research_slots = 1
+set_stability = 0.5
+set_war_support = 0.5
+set_convoys = 50
+
+set_technology = { # Starting tech
+	infantry_weapons = 1
+	gw_artillery = 1
+	gwtank = 1
+}
+
+set_politics = {
+	ruling_party = authoritarian
+	last_election = "1933.7.1"
+	election_frequency = 60
+	elections_allowed = no
+}
+
+set_popularities = {
+	democratic = 41
+	authoritarian = 50
+	nationalist = 9
+}
+
+add_ideas = {
+}

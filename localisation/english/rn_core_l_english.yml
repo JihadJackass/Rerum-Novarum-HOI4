@@ -1,0 +1,12 @@
+﻿l_english:
+
+ #Leader Descriptions
+
+ GAS_BUTTON_CLICK:0 "§GClick§! to use Gas Attack"
+ GAS_BUTTON_AIR_EQUIPMENT:0 "At least §Y1 $TYPE$§! in range."
+ GAS_BUTTON_AIR_SUPERIORITY:0 "At least $VAL|H%$ 1 division near region."
+ GAS_BUTTON_GAS_AMOUNT:0 "We have Gas Stockpile"
+ GAS_BUTTON_NOT_IN_PROGRESS:0 "No Gas Attack in Progress"
+ GAS_PROGRESS_DESC:0 "The Gas will be dropped in $HOURS|H$ hours."
+ GAS_BUTTON_WAR_SUPPORT:1 "$COUNTRY|Y$ will lose $VALUE|H1%$ War Support"
+ GAS_BUTTON_WAR_SUPPORT_DESC:0 "War Support impact will be largest in provinces with $INFRA|H$ §HInfrastructure§! and at least $VP|H$ Victory Points"

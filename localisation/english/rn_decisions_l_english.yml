@@ -1,0 +1,55 @@
+﻿l_english:
+  # RERUM NOVARUM Decisions
+
+
+  # Categories
+
+    # DEBUG TOOLS
+
+      # Politics
+
+        rn_debug_decisions: "Rerum Novarum | Debug Tools"
+
+        rn_politics_neutral: "Become Neutral"
+        rn_politics_monarchy: "Become Monarchy"
+        rn_politics_democratic: "Become Democratic"
+        rn_politics_socialism: "Become Socialist"
+        rn_politics_communism: "Become Communist"
+        rn_politics_islamic: "Become Islamic"
+        rn_politics_authoritarian: "Become Authoritarian"
+        rn_politics_nationalist: "Become Nationalist"
+        rn_politics_fascism: "Become Fascist"
+
+      # Production
+
+        rn_politics_production: "Enable Production Bonus"
+
+      # Resources
+
+        rn_politics_resource: "Enable Resource Bonus"
+
+    # GAME SETTINGS
+
+      rn_game_settings_decisions: "Rerum Novarum | Game Settings"
+      rn_disable_factions: "Disable Factions"
+      rn_disable_puppets: "Disable Puppets"
+
+    # Custom Tooltips
+
+      rn_will_disable_puppets: "§YAll Subjects§! will be §RREMOVED§!\n\nGood for if you want a playthrough without the historical alliances."
+
+    # Bulgaria
+
+		  rn_bulgaria_decisions: "Restoration of Historical Bulgar Realms"
+
+      rn_restore_great_bulgaria: "Restore Great Bulgar"
+
+      rn_establish_tsardom_of_bulgaria: "Restore the Tsardom of Bulgaria"
+
+    # Italy
+
+      rn_italian_decisions: "Italian Unification"
+
+      rn_unite_italian_region: "Unite Italian Region"
+
+
