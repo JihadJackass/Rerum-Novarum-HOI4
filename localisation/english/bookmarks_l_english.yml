@@ -2,18 +2,15 @@
  BM_HISTORY_TITLE: "History of Rerum Novarum"
  RERUM_NOVARUM_NAME: "Rerum Novarum"
  RERUM_NOVARUM_DESC: "TODO: Description"
+
+  # Majors
  GER_RERUM_NOVARUM_DESC: "TODO: German Empire Description"
  SPR_RERUM_NOVARUM_DESC: "TODO: Spanish Empire Description"
  AUS_RERUM_NOVARUM_DESC: "TODO: Austrian Empire Description"
  FRA_RERUM_NOVARUM_DESC: "TODO: French Republic Description"
  OTHER_GATHERING_STORM_DESC: "TODO: Other Nations Description"
 
-   rn_game_settings_decisions: "Mod Settings"
+  # Minors
+ IRE_RERUM_NOVARUM_DESC: "TODO: Irish Republic Description"
 
- # Decisions
-
-  rn_debug_decisions: "Rerum Novarum Debug Tools"
-
-  rn_politics_neutral: "Become Neutral"
-  rn_politics_monarchy: "Become Monarchy"
-  rn_politics_democratic: "Become Monarchy"
+  # Other

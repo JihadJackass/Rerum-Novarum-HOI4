@@ -6,6 +6,7 @@ tags={
 	"Ideologies"
 }
 name="Rerum Novarum"
+replace_path="common/characters"
 replace_path="common/ai_strategy"
 replace_path="common/ai_strategy_plans"
 replace_path="common/decisions"

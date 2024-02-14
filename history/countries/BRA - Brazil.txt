@@ -23,6 +23,10 @@ set_popularities = {
 }
 
 puppet = UCY
+puppet = SCR
+puppet = UGY
+puppet = SCC
+puppet = CHB
 
 create_country_leader = {
 	name = "Federal Social Legislature"

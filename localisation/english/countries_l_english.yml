@@ -621,9 +621,37 @@
   IRE_neutrality_DEF: "Ireland"
   IRE_neutrality_ADJ: "Irish"
 
+  IRE_monarchy: "Kingdom of Ireland"
+  IRE_neutrality_DEF: "Irish Kingdom"
+  IRE_neutrality_ADJ: "Irish"
+
   IRE_democratic: "Ireland"
-  IRE_democratic_DEF: "the Republic of Ireland"
+  IRE_democratic_DEF: "the Republic of Scotland"
   IRE_democratic_ADJ: "Irish"
+
+  IRE_socialism: "Ireland"
+  IRE_socialism_DEF: "the Irish Republic"
+  IRE_socialism_ADJ: "Irish"
+
+  IRE_communism: "Commune of Ireland"
+  IRE_communism_DEF: "the Commune of Ireland"
+  IRE_communism_ADJ: "Irish"
+
+  IRE_islamic: "Irish Emirates"
+  IRE_islamic_DEF: "the Islamic Emirates of Ireland"
+  IRE_islamic_ADJ: "Irish"
+
+  IRE_authoritarian: "Ireland"
+  IRE_authoritarian_DEF: "the Directorate of Ireland"
+  IRE_authoritarian_ADJ: "Irish"
+
+  POL_nationalist: "Ireland"
+  POL_nationalist_DEF: "the Germanic State of Ireland"
+  POL_nationalist_ADJ: "Irish"
+
+  POL_fascism: "Irish Realm"
+  POL_fascism_DEF: "the Germanic Irish Kingdom"
+  POL_fascism_ADJ: "Irish"
 
  # Kingdom of France
 
@@ -1644,23 +1672,41 @@
   BRA_communism_DEF: "the People's Republic of Brazil"
   BRA_communism_ADJ: "Brazilian"
 
- # Santa Catrina Republic
+ # Chaco Boreal
 
-  SCR_socialism: "Santa Catrina Republic"
+  CHB_socialism: "Chaco Boreal"
+  CHB_socialism_DEF: "the Chaco Boreal Socialist Republic"
+  CHB_socialism_ADJ: "Chaco Borealian"
+
+ # Santa Catrina
+
+  SCR_socialism: "Santa Catrina"
   SCR_socialism_DEF: "the Santa Catrina Socialist Republic"
   SCR_socialism_ADJ: "Santa Catrinian"
 
- # Rio Grande Sol Republic
+ # Santa Cruz
 
-  RGR_socialism: "Rio Grande Sol Republic"
-  RGR_socialism_DEF: "the Rio Grande Sol Socialist Republic"
-  RGR_socialism_ADJ: "Rio Grandian"
+  SCC_socialism: "Santa Cruz"
+  SCC_socialism_DEF: "the Santa Cruz Socialist Republic"
+  SCC_socialism_ADJ: "Santa Cruzian"
 
- # Ucayali Republic
+ # Rio Grande Sol
 
-  UCY_socialism: "Ucayali Republic"
+  UGY_socialism: "Rio Grande Sol"
+  UGY_socialism_DEF: "the Rio Grande Sol Socialist Republic"
+  UGY_socialism_ADJ: "Rio Grandian"
+
+ # Ucayali
+
+  UCY_socialism: "Ucayali"
   UCY_socialism_DEF: "the Ucayali Socialist Republic"
   UCY_socialism_ADJ: "Ucayalian"
+
+ # Uyghurstan
+
+  UYG_neutrality: "Uyghurstan"
+  UYG_neutrality_DEF: "the Great Uyghurstan"
+  UYG_neutrality_ADJ: "Uyghurstani"
 
  # Argentina
 

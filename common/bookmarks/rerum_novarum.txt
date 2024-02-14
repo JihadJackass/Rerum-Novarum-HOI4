@@ -140,6 +140,12 @@ bookmarks = {
 			ideology = nationalist
 		}
 
+		"IRE"={
+			minor = yes
+			history = "IRE_RERUM_NOVARUM_DESC"
+			ideology = nationalist
+		}
+
 		effect = {
 			randomize_weather = 22345 # <- Obligatory in every bookmark !
 			#123 = { rain_light = yes }

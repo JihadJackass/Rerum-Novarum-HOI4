@@ -381,6 +381,7 @@ BLR = {
 	color_ui = rgb { 43 117 58 }
 }
 
+# Ireland
 IRE = {
 	color = rgb { 58 122 43 }
 	color_ui = rgb { 58 122 43 }
@@ -424,6 +425,36 @@ COL = {
 SIA = {
 	color = rgb { 201 157 173 }
 	color_ui = rgb { 201 157 173 }
+}
+
+# Chaco Boreal
+CHB = {
+	color = rgb { 15 120 30 }
+	color_ui = rgb { 15 120 30 }
+}
+
+# Ucayali
+UCY = {
+	color = rgb { 10 100 10 }
+	color_ui = rgb { 10 100 10 }
+}
+
+# Rio Grande do Sol
+UGY = {
+	color = rgb { 25 120 25 }
+	color_ui = rgb { 25 120 25 }
+}
+
+# Santa Catrina
+SCR = {
+	color = rgb { 5 120 20 }
+	color_ui = rgb { 5 120 20 }
+}
+
+# Santa Cruz
+SCC = {
+	color = rgb { 5 135 35 }
+	color_ui = rgb { 5 135 35 }
 }
 
 # Dynamic Countries colors

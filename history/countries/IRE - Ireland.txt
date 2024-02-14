@@ -13,25 +13,29 @@ set_technology = {
 set_convoys = 10
 
 set_politics = {
-	ruling_party = democratic
-	last_election = "1933.1.24"
+	ruling_party = nationalist
+	last_election = "1920.1.1"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
-	democratic = 98
-	fascism = 1
-	communism = 1
+	nationalist = 78
+	democratic = 12
+	socialism = 5
+	neutrality = 5
 }
 
-1939.1.1 = {
-	set_politics = {
-		ruling_party = democratic
-		last_election = "1938.6.17"
-		election_frequency = 48
-		elections_allowed = yes
+create_country_leader = {
+	name = "Joachim of Prussia"
+	desc = "POLITICS_JOACHIM_OF_PRUSSIA_DESC"
+	picture = "Prince_Joachim_of_Prussia_uniform_irish_king.dds"
+	expire = "1935.1.1"
+	ideology = nationalist_regime
+	traits = {
+		#
 	}
 }
+
 create_country_leader = {
 	name = "Éamon de Valera"
 	desc = "POLITICS_ÉAMON_DE_VALERA_DESC"

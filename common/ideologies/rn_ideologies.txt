@@ -349,6 +349,8 @@ ideologies = {
 		types = {
 			nationalist_regime = {
 			}
+			national_populist = { # Elected by Nationalists
+			}
 		}
 
 		dynamic_faction_names = {

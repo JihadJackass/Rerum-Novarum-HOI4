@@ -1,0 +1,9 @@
+﻿l_english:
+
+  # Decisions
+
+  rn_debug_decisions: "Rerum Novarum Debug Tools"
+
+  rn_politics_neutral: "Become Neutral"
+  rn_politics_monarchy: "Become Monarchy"
+  rn_politics_democratic: "Become Monarchy"

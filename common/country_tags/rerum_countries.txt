@@ -21,14 +21,18 @@ GRJ = "countries/German Raj.txt"
 HBC = "countries/Hudson Bay Company.txt"
 ENX = "countries/British Government in Exile.txt"
 SAR = "countries/Special Administrative Region.txt"
-#CHB = "countries/Chaco Boreal.txt"
-UCY = "countries/Ucayali Republic.txt"
-SCR = "countries/Santa Cruz Republic.txt"
 BCL = "countries/New Columbia.txt"
 UCA = "countries/United Central America.txt"
 ONT = "countries/Ontario.txt"
-#UYG = "countries/Uyghurstan.txt"
+UYG = "countries/Uyghurstan.txt"
 #ITA = "countries/Italy.txt"
+
+# Distritos Federais Socialistas
+CHB = "countries/Chaco Boreal.txt"
+UCY = "countries/Ucayali.txt"
+SCR = "countries/Santa Cruz.txt"
+SCC = "countries/Santa Catrina.txt"
+UGY = "countries/Rio Grande do Sol.txt"
 
 # Vanilla Tags
 

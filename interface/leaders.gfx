@@ -1,0 +1,10 @@
+spriteTypes = {
+
+	# Ireland
+
+	spriteType = {
+		name = "Prince_Joachim_of_Prussia_uniform_irish_king"
+		texturefile = "gfx//interface//Prince_Joachim_of_Prussia_uniform_irish_king.dds"
+	}
+
+}

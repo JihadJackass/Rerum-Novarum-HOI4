@@ -22,8 +22,6 @@ set_popularities = {
 	democratic = 18
 }
 
-puppet = UCY
-
 create_country_leader = {
 	name = "Federal Social Legislature"
 	desc = "RN_POLITICS_BRAZIL_SOCIALIST_COUNCIL_DESC"

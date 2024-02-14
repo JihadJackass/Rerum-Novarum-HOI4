@@ -28,5 +28,4 @@ set_popularities = {
 	fascism = 2
 }
 
-add_ideas = {
-}
+puppet = BAN
