@@ -14,10 +14,15 @@
   islamic_expansionism: "Islamic Expansionism"
   islamic_expansionism_desc: "TODO"
 
- # French / Generic Tree
+ # French
 
   filipino_french_wars: "Franco-Filipino War"
   filipino_french_wars_desc: "TODO"
+
+ # Germany
+
+  GER_reassert_hegemony: "Reassert Hegemony"
+  GER_reassert_hegemony_desc: ""
 
  # Ideologies
 

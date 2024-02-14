@@ -1,0 +1,12 @@
+
+music_station = "base_music"
+
+music = {
+	song = "allies_peace_morningofdday"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+

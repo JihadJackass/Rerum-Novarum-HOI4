@@ -32,6 +32,8 @@ spriteTypes = {
 		textureFile = "gfx/interface/stateview_gas_attack_button.dds"
 	}
 
+	# Gas Attack Big Button
+
 	SpriteType = {
 		name = "GFX_gas_attack_button_big"
 		textureFile = "gfx/interface/stateview_gas_attack_button_big.dds"

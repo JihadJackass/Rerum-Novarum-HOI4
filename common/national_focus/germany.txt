@@ -1,0 +1,123 @@
+﻿focus_tree = {
+	id = germany_focus
+
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			original_tag = GER
+		}
+	}
+
+	default = yes
+	continuous_focus_position = { x = 50 y = 1500 }
+
+#	██   ██ ███████  ██████  ███████ ███    ███  ██████  ███    ██ ██    ██
+#	██   ██ ██      ██       ██      ████  ████ ██    ██ ████   ██  ██  ██
+#	███████ █████   ██   ███ █████   ██ ████ ██ ██    ██ ██ ██  ██   ████
+#	██   ██ ██      ██    ██ ██      ██  ██  ██ ██    ██ ██  ██ ██    ██
+#	██   ██ ███████  ██████  ███████ ██      ██  ██████  ██   ████    ██
+
+	# Re-assert Hegemony
+
+	focus = {
+		id = GER_reassert_hegemony
+
+		icon = GFX_focus_attack_germany
+		x = 2
+		y = 0
+		cost = 10
+
+		available = {
+
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	# Rebuild Imperial Army
+
+	focus = {
+		id = GER_rebuild_imperial_army
+
+		icon = GFX_goal_generic_production2
+		x = 4
+		y = 2
+		cost = 10
+
+		prerequisite = {
+			focus = GER_reassert_hegemony
+		}
+
+		available = {
+
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	# Rebuild Imperial Navy
+
+	focus = {
+		id = GER_rebuild_imperial_navy
+
+		icon = GFX_goal_generic_production2
+		x = 0
+		y = 2
+		cost = 10
+
+		prerequisite = {
+			focus = GER_reassert_hegemony
+		}
+
+		available = {
+
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	# Rebuild Imperial Army
+
+#	██████   ██████  ██      ██ ████████ ██  ██████  █████  ██
+#	██   ██ ██    ██ ██      ██    ██    ██ ██      ██   ██ ██
+#	██████  ██    ██ ██      ██    ██    ██ ██      ███████ ██
+#	██      ██    ██ ██      ██    ██    ██ ██      ██   ██ ██
+#	██       ██████  ███████ ██    ██    ██  ██████ ██   ██ ███████
+
+
+focus = {
+	id = GER_consolidate_power
+
+	icon = GFX_goal_generic_production2
+	x = 6
+	y = 0
+	cost = 10
+
+	available = {
+
+	}
+
+	search_filters = {FOCUS_FILTER_POLITICAL}
+
+	completion_reward = {
+
+	}
+}
+
+
+#	█████  ██████  ███    ███ ███████ ██████      ███████  ██████  ██████   ██████ ███████ ███████
+#	██   ██ ██   ██ ████  ████ ██      ██   ██     ██      ██    ██ ██   ██ ██      ██      ██
+#	███████ ██████  ██ ████ ██ █████   ██   ██     █████   ██    ██ ██████  ██      █████   ███████
+#	██   ██ ██   ██ ██  ██  ██ ██      ██   ██     ██      ██    ██ ██   ██ ██      ██           ██
+#	██   ██ ██   ██ ██      ██ ███████ ██████      ██       ██████  ██   ██  ██████ ███████ ███████
+
+
+
+}

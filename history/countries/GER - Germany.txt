@@ -35,3 +35,6 @@ create_country_leader = {
 	traits = {
 	}
 }
+
+add_ideas = rn_entmilitarisierung
+
